@@ -29,7 +29,7 @@ export default function Home() {
           </li>
           <li>
             <code>app/users/page.tsx</code>{" "}
-            is the dashboard that shows an overview of all users, fetched from
+            is the dashboard showing an overview of all users, fetched from
             the server.
           </li>
           <li>
