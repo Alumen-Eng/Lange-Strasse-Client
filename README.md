@@ -1,10 +1,5 @@
 # Getting Started
 
-### MacOS, Linux and WSL
-
-If you are using MacOS, Linux or WSL(Windows-Subsystem-Linux), you can skip
-directly to the
-[installation part](https://github.com/HASEL-UZH/sopra-fs25-template-client?tab=readme-ov-file#installation)
 
 ### Windows
 
